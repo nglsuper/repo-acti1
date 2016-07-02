@@ -1,2 +1,5 @@
 ceci est une activité pour le cours git et github
 je l'ai bien aimé
+
+
+je remercie le professeur et je vous souhaite une bonne correction
